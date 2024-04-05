@@ -11,7 +11,12 @@ df %>%
   filter(col > 100)
 
 # update dplyr function
-df %>%
+df2 <- df %>%
   select(1:10) %>%
   filter(country == "Thailand") %>%
   arrange(-income)
+
+# plot new histogram
+library(ggplot2)
+ggplot(df2,aes(income)) +
+  geom_histogram()
