@@ -18,3 +18,6 @@
 - ID Card Parser
 - Sparkline Basics
 - Google Translate
+
+## Link to Google Sheets
+- https://docs.google.com/spreadsheets/d/1Vf7hE-H3PcPpzilDBBF8-xICi28z4BBmume1zJCUGlI/edit?usp=sharing
