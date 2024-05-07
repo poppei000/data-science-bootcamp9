@@ -21,7 +21,7 @@ I'm learing data science bootcamp. There are 10 sprints in the program.
 - Dashboard with Looker Studio
 
 ## Certificate by DataRockie School
-- [https://badgr.com/public/assertions/niJKz4SAQuCXfHeW__ocMQ?identity__email=sarayut241471@gmail.com](https://api.badgr.io/public/assertions/niJKz4SAQuCXfHeW__ocMQ?identity__email=sarayut241471%40gmail.com)
+- https://api.badgr.io/public/assertions/niJKz4SAQuCXfHeW__ocMQ?identity__email=sarayut241471%40gmail.com
 
 
 Contact: sarayut241471@gmail.com
